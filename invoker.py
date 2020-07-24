@@ -67,3 +67,4 @@ if __name__ == "__main__":
     assembly = Assembly.LoadFrom("WindowsFormsApp3.exe")
     DecryptStrings()
     Save()
+ 
