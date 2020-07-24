@@ -58,7 +58,7 @@ def DecryptStrings():
 
 
 if __name__ == "__main__":
-    clr.AddReference(r"C:\Users\root\Desktop\Confused\dnlib.dll")
+    clr.AddReference(r"DNLIB PATH")
     import dnlib
     from dnlib.DotNet.Emit import OpCodes
     global module
